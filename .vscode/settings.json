@@ -1,0 +1,10 @@
+{
+  "go.formatTool": "goformat",
+  "editor.formatOnSave": true,
+  "rest-client.rememberCookiesForSubsequentRequests": false,
+  "rest-client.environmentVariables": {
+    "local": {
+      "host": "http://localhost:8080"
+    }
+  }
+}
