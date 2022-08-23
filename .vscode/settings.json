@@ -4,7 +4,8 @@
   "rest-client.rememberCookiesForSubsequentRequests": false,
   "rest-client.environmentVariables": {
     "local": {
-      "host": "http://localhost:8080"
+      "host": "http://localhost:8080",
+      "imageUrl": "https://static.truck2hand.com/public/upload/item/2914/99122465-8258-4ec4-8ee0-c08b6e67b374.jpg"
     }
   }
 }
